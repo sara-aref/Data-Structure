@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703510006 source:c:\users\sara\onedrive\desktop\linear_search\main.cpp
+	<iostream>
+	<string.h>
+
